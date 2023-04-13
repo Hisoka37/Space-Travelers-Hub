@@ -1,6 +1,5 @@
 <a name="readme-top"></a>
 
-<img src="./src/images/myLogo.png"></img>
 
 # 📗 Table of Contents
 
