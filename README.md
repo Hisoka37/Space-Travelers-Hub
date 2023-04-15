@@ -59,10 +59,10 @@
 ### Key Features <a name="key-features"></a>
 
 
-- **[Fresh quality content]**
-- **[Speed and responsive]**
-- **[Easy to use]**
-- **[Reserving of space x rockets and missions]**
+- Fresh quality content
+- Speed and responsive
+- Easy to use
+- Reserving of space x rockets and missions
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -70,7 +70,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> No live demo link yet
+> [Live Demo](https://space-hub-2unx.onrender.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
