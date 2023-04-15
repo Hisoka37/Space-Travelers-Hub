@@ -25,7 +25,7 @@
 
 
 
-# 📖 [SPACE-TRAVELLERS-HUB] <a name="about-project"></a>
+# 📖 SPACE-TRAVELLERS-HUB <a name="about-project"></a>
 
 > 
 **SPACE-TRAVELLERS-HUB** is a project i worked on alongside my partner **Walid** to help clients all around the world have access to reserving space flights and work on missions sponsored by **SPACE-X**
@@ -76,7 +76,7 @@
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
->  Clone repo via cmd - https://github.com/David-Lanzz/Space-Travelers-Hub.git
+>  Clone repo via cmd - https://github.com/Hisoka37/Space-Travelers-Hub.git
 > Run npm i to install dependencies
 > Run npm start to show preview in browser
 ### Prerequisites
@@ -111,17 +111,17 @@ To use the project, Click on the live Demo link or clone the project,install dep
 ### Run tests
 
 To run tests, run the following command:
-npm install --save-dev stylelint@13.x stylelint-scss@3.x stylelint-config-standard@21.x stylelint-csstree-validator@1.x
+`npm install --save-dev stylelint@13.x stylelint-scss@3.x stylelint-config-standard@21.x stylelint-csstree-validator@1.x`
 
-npx stylelint "**/*.{css,scss}"
+`npx stylelint "**/*.{css,scss}"`
 
+`npm install --save-dev eslint@7.x eslint-config-airbnb@18.x eslint-plugin-import@2.x eslint-plugin-jsx-a11y@6.x eslint-plugin-react@7.x eslint-plugin-react-hooks@4.x @babel/eslint-parser@7.x @babel/core@7.x  @babel/plugin-syntax-jsx@7.x @babel/preset-env@7.x  @babel/preset-react@7.x`
 
-npm install --save-dev eslint@7.x eslint-config-airbnb@18.x eslint-plugin-import@2.x eslint-plugin-jsx-a11y@6.x eslint-plugin-react@7.x eslint-plugin-react-hooks@4.x @babel/eslint-parser@7.x @babel/core@7.x  @babel/plugin-syntax-jsx@7.x @babel/preset-env@7.x  @babel/preset-react@7.x
     
-npx eslint "**/*.{js,jsx}"
+`npx eslint "**/*.{js,jsx}"`
 
 
-npm test [for component snapshot tests]
+`npm test` [for component snapshot tests]
 ### Deployment
 
 You can deploy this project using:
@@ -190,12 +190,11 @@ We will like to give kudos to microverse for assigning the creation of this proj
 - **How did you get the linters to work for the html and CSS**
 
   - Move into the project directory, copy and run the following commands:
-
-  "npm install --save-dev stylelint@13.x stylelint-scss@3.x stylelint-config-standard@21.x stylelint-csstree-validator@1.x"
-
+`"npm install --save-dev stylelint@13.x stylelint-scss@3.x stylelint-config-standard@21.x stylelint-csstree-validator@1.x"
+`
   then:
-npx stylelint "**/*.{css,scss}" to test for CSS
-and npx hint . for HTML
+`npx stylelint "**/*.{css,scss}"` to test for CSS
+`and npx hint .` for HTML
 
 - **How did you align the elements to fit design**
 
